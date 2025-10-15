@@ -444,6 +444,65 @@
         "text_gradient": ""
       }
     },
+    "multi_column_xFqJ9Y": {
+      "type": "multi-column",
+      "blocks": {
+        "item_eRPUxY": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_znRCNd": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_id3kaW": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_eRPUxY",
+        "item_znRCNd",
+        "item_id3kaW"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "<h4>De Vraies Femmes, De Vrais Résultats</h4>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_with_text_tNjtgM": {
       "type": "media-with-text",
       "blocks": {
@@ -797,6 +856,7 @@
     "logo_list_YBkV8n",
     "media_with_text_KRrLTp",
     "scrolling_text_mYfHGa",
+    "multi_column_xFqJ9Y",
     "media_with_text_tNjtgM",
     "rich_text_LaxFXg",
     "image_link_blocks_cXm6nt",
