@@ -141,6 +141,58 @@
         "heading_gradient": ""
       }
     },
+    "press_WMmCMk": {
+      "type": "press",
+      "blocks": {
+        "quote_XchaX9": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Laura C.",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_KHmRWR": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Nathalie D.",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_8A7Q8x": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Céline U.",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "quote_XchaX9",
+        "quote_KHmRWR",
+        "quote_8A7Q8x"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "featured_product_yJDeQi": {
       "type": "featured-product",
       "blocks": {
@@ -235,6 +287,7 @@
   "order": [
     "slideshow",
     "image_link_blocks_kRTfYx",
+    "press_WMmCMk",
     "featured_product_yJDeQi"
   ]
 }
