@@ -259,6 +259,16 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
+            "title": "Informations sur la livraisons",
+            "content": "<p>Commandez aujourd’hui, expédié demain. <strong>Livraison en 5 à 7 jours</strong> ouvrés avec suivi.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_PNLFbb": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
             "title": "Ingrédients",
             "content": "<ul><li><strong>Caféine naturelle (30 mg)</strong><br/>Stimule le métabolisme et favorise la combustion des graisses.</li><li><strong>Extrait de thé vert (20 mg)</strong><br/>Accélère la lipolyse et soutient le drainage naturel.</li><li><strong>Garcinia Cambogia (20 mg)</strong><br/>Régule l’appétit et limite le stockage des graisses.</li><li><strong>L-Carnitine (15 mg)</strong><br/>Facilite le transport des graisses pour les transformer en énergie.</li><li><strong>Extrait de guarana (10 mg)</strong><br/>Apporte un effet tonique sans nervosité, et booste la dépense calorique.</li><li><strong>Vitamine B6 (5 mg)</strong><br/>Soutient le métabolisme énergétique et réduit la fatigue.</li></ul>",
             "page": ""
@@ -285,6 +295,7 @@
         "quantity_selector_ayNPkG",
         "buy_buttons_pWFA8R",
         "collapsible_text_JXpP7g",
+        "collapsible_text_PNLFbb",
         "collapsible_text_xbxWqe"
       ],
       "name": "Featured product",
