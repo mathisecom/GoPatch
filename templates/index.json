@@ -373,8 +373,8 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
+            "author": "Aline S.",
+            "title": "J'ai senti la différence.",
             "content": "<p>J'avais des doutes au début, mais après quelques jours, j'ai senti la différence. Plus d'envies compulsives et une sensation de légèreté.</p>"
           }
         },
@@ -385,7 +385,7 @@
             "show_rating": true,
             "rating": 5,
             "author": "Mary U.",
-            "title": "Testimonial 2",
+            "title": "Super pratique au quotidien",
             "content": "<p>Super pratique au quotidien. Je l'applique le matin et j'oublie. Je remarque déjà que je grignote moins !</p>"
           }
         },
@@ -395,8 +395,8 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
+            "author": "Laly F.",
+            "title": "Un vrai coup de pouce",
             "content": "<p>Un vrai coup de pouce pour éviter les fringales. Je me sens beaucoup plus sereine avec mes repas, et ça change tout.</p>"
           }
         },
@@ -406,8 +406,19 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
+            "author": "Eva B.",
+            "title": "Ce patch m'aide vraiment",
+            "content": "<p>Plus besoin de me forcer à résister aux envies sucrées. Ce patch m'aide vraiment à stabiliser mon alimentation.</p>"
+          }
+        },
+        "testimonial_TaRPdw": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Sophia A.",
+            "title": "Je recommande !",
             "content": "<p>J'avais peur que ça ne fonctionne pas, mais les résultats sont là. Je recommande pour toutes celles qui veulent un petit coup de pouce.</p>"
           }
         }
@@ -416,7 +427,8 @@
         "testimonial_zdVhir",
         "testimonial_VUxp7e",
         "testimonial_btcCkr",
-        "testimonial_KC3mea"
+        "testimonial_KC3mea",
+        "testimonial_TaRPdw"
       ],
       "name": "Testimonials",
       "settings": {
