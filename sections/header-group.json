@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "header",
   "name": "Header group",
@@ -8,19 +17,47 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here"
+            "text": "+3,000 Femmes Conquises !",
+            "url": ""
+          }
+        },
+        "message_hDCjPN": {
+          "type": "message",
+          "settings": {
+            "text": "Livraison Offerte en France",
+            "url": ""
+          }
+        },
+        "message_UiUYLR": {
+          "type": "message",
+          "settings": {
+            "text": "Offre D'Automne : -50% de réduction",
+            "url": ""
+          }
+        },
+        "message_MYCnGG": {
+          "type": "message",
+          "settings": {
+            "text": "Paiement 100% Sécurisés",
+            "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_hDCjPN",
+        "message_UiUYLR",
+        "message_MYCnGG"
       ],
       "settings": {
         "enable_sticky": false,
+        "autoplay": true,
+        "cycle_speed": 4,
         "text_size": "text-xs",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
         "background": "#1a1a1a",
+        "background_gradient": "",
         "text_color": "#ffffff"
       }
     },
@@ -29,18 +66,21 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "{{shop.brand.logo}}",
         "logo_max_width": 120,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
+        "sidebar_menu": "",
+        "secondary_menu": "",
         "menu_open_trigger": "click",
         "opening_from": "bottom",
         "layout": "logo_left_navigation_center",
         "show_social_media": true,
+        "show_locale_selector": true,
+        "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
-        "reduce_padding": false,
+        "reduce_padding": true,
         "background_opacity": 100,
         "background_blur_radius": 0
       }
