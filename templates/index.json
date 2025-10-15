@@ -284,6 +284,39 @@
         "input_text_color": ""
       }
     },
+    "rich_text_LaxFXg": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_CwRAnq": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>★★★★★ Noté 4,8/5</p>"
+          }
+        },
+        "heading_FGnTtB": {
+          "type": "heading",
+          "settings": {
+            "text": "+3,000 Femmes Conquises",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "richtext_CwRAnq",
+        "heading_FGnTtB"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "testimonials_nkB9h3": {
       "type": "testimonials",
       "blocks": {
@@ -350,6 +383,7 @@
     "image_link_blocks_kRTfYx",
     "press_WMmCMk",
     "featured_product_yJDeQi",
+    "rich_text_LaxFXg",
     "testimonials_nkB9h3"
   ]
 }
