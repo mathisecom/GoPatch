@@ -441,6 +441,39 @@
         "testimonial_card_text_color": ""
       }
     },
+    "rich_text_EyAVPK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ADWY7J": {
+          "type": "heading",
+          "settings": {
+            "text": "Essayez-le pendant 30 jours",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_ikje4Q": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Nous sommes convaincus que vous allez adorer les résultats, mais si vous n’êtes pas <strong>100 % satisfait</strong>, retournez-le simplement dans les <strong>30 jours</strong> pour un remboursement complet.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ADWY7J",
+        "richtext_ikje4Q"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#f0dbdd",
+        "background_gradient": "",
+        "text_color": "#371a21"
+      }
+    },
     "faq_P7b93j": {
       "type": "faq",
       "blocks": {
@@ -502,6 +535,7 @@
     "featured_product_yJDeQi",
     "rich_text_LaxFXg",
     "testimonials_nkB9h3",
+    "rich_text_EyAVPK",
     "faq_P7b93j"
   ]
 }
