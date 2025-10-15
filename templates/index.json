@@ -399,12 +399,24 @@
             "title": "Testimonial 3",
             "content": "<p>Un vrai coup de pouce pour éviter les fringales. Je me sens beaucoup plus sereine avec mes repas, et ça change tout.</p>"
           }
+        },
+        "testimonial_KC3mea": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>J'avais peur que ça ne fonctionne pas, mais les résultats sont là. Je recommande pour toutes celles qui veulent un petit coup de pouce.</p>"
+          }
         }
       },
       "block_order": [
         "testimonial_zdVhir",
         "testimonial_VUxp7e",
-        "testimonial_btcCkr"
+        "testimonial_btcCkr",
+        "testimonial_KC3mea"
       ],
       "name": "Testimonials",
       "settings": {
