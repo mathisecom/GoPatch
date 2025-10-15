@@ -289,6 +289,12 @@
             "content": "<p>Appliquez le patch sur une peau propre et sèche (poignet, bras ou bas du dos).</p><p>Laissez-le agir pendant <strong>8 à 12 heures</strong>, puis retirez-le.</p><p>À utiliser <strong>quotidiennement</strong> ou selon vos besoins, dans le cadre de votre routine bien-être.</p>",
             "page": ""
           }
+        },
+        "liquid_PECzNJ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<section id=\"shopify-section-template--23937715732809__custom_liquid_CpkBhe\" class=\"shopify-section shopify-section--custom-liquid\"><style>\n  #shopify-section-template--23937715732809__custom_liquid_CpkBhe {\n    --section-background-hash: 0;\n  }\n\n  #shopify-section-template--23937715732809__custom_liquid_CpkBhe + * {\n    --previous-section-background-hash: 0;\n  }</style><style>\n    #shopify-section-template--23937715732809__custom_liquid_CpkBhe {\n      \n      \n    }\n  </style>\n\n  <div class=\"section   section-blends section-full\">\n    <style>\n  .video-scroll-container {\n    display: flex;\n    gap: 12px;\n    overflow-x: auto;\n    padding: 16px;\n    scroll-snap-type: x mandatory;\n  }\n\n  .video-scroll-container video {\n    flex: 0 0 auto;\n    width: 40vw;\n    max-width: 200px;\n    height: auto;\n    aspect-ratio: 9/16;\n    border-radius: 12px;\n    object-fit: cover;\n    scroll-snap-align: start;\n  }\n\n  @media(min-width: 768px) {\n    .video-scroll-container {\n      display: grid;\n      grid-template-columns: repeat(3, 1fr);\n      overflow-x: unset;\n    }\n\n    .video-scroll-container video {\n      width: 100%;\n      max-width: 100%;\n    }\n  }\n</style>\n\n<div class=\"video-scroll-container\">\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/07919df1c58d475084e941f4565e9200.mp4\" autoplay=\"\" muted=\"\" loop=\"\" playsinline=\"\" controls=\"\"></video> <!-- remplacée -->\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/dc6cef0f79254b878d271008b49fcab1.mp4\" autoplay=\"\" muted=\"\" loop=\"\" playsinline=\"\" controls=\"\"></video>\n</div>\n  </div>\n</section>"
+          }
         }
       },
       "block_order": [
@@ -303,7 +309,8 @@
         "liquid_BwjbRA",
         "collapsible_text_JXpP7g",
         "collapsible_text_PNLFbb",
-        "collapsible_text_xbxWqe"
+        "collapsible_text_xbxWqe",
+        "liquid_PECzNJ"
       ],
       "name": "Featured product",
       "settings": {
