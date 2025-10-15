@@ -338,6 +338,22 @@
         "input_text_color": ""
       }
     },
+    "scrolling_text_mYfHGa": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#fbf5f6",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "rich_text_LaxFXg": {
       "type": "rich-text",
       "blocks": {
@@ -653,6 +669,7 @@
     "image_link_blocks_kRTfYx",
     "press_WMmCMk",
     "featured_product_yJDeQi",
+    "scrolling_text_mYfHGa",
     "rich_text_LaxFXg",
     "image_link_blocks_cXm6nt",
     "testimonials_nkB9h3",
