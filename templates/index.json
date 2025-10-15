@@ -269,8 +269,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Conseils D'utilisation",
+            "content": "<p>Appliquez le patch sur une peau propre et sèche (poignet, bras ou bas du dos).</p><p>Laissez-le agir pendant <strong>8 à 12 heures</strong>, puis retirez-le.</p><p>À utiliser <strong>quotidiennement</strong> ou selon vos besoins, dans le cadre de votre routine bien-être.</p>",
             "page": ""
           }
         }
@@ -398,6 +398,59 @@
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
       }
+    },
+    "faq_P7b93j": {
+      "type": "faq",
+      "blocks": {
+        "item_tzDehK": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_b7HbJE": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_LQQHC4": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_tzDehK",
+        "item_b7HbJE",
+        "item_LQQHC4"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Questions Fréquentes",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -406,6 +459,7 @@
     "press_WMmCMk",
     "featured_product_yJDeQi",
     "rich_text_LaxFXg",
-    "testimonials_nkB9h3"
+    "testimonials_nkB9h3",
+    "faq_P7b93j"
   ]
 }
