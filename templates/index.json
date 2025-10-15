@@ -651,22 +651,22 @@
         "item_tzDehK": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Quand verrais-je les premiers résultats visibles ?",
+            "content": "<p>Les premières clientes ressentent un changement <strong>dès 7 à 10 jours</strong>. </p>"
           }
         },
         "item_b7HbJE": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Est-ce que les résultats tiennent dans le temps ou y a-t-il un risque de reprise ?",
+            "content": "<p>Non, l’action progressive du patch évite l’effet yo-yo. Vous perdez sans vous priver, durablement.</p>"
           }
         },
         "item_LQQHC4": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Faut-il suivre un régime alimentaire en parallèle ?",
+            "content": "<p>Aucun régime nécessaire. <strong>MyPatch Minceur®</strong>vous aide à perdre sans privation, naturellement.</p>"
           }
         }
       },
