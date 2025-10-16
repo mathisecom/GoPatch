@@ -527,6 +527,7 @@
         "image_3Ahmdi": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Titre_-_2025-10-16T105213.960.jpg",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
@@ -535,7 +536,7 @@
             "subheading": "",
             "title": "Heading",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "link_text": "",
+            "link_text": "JE COMMENCE MAINTENANT",
             "link_url": "",
             "background": "#ffffff",
             "background_gradient": "",
