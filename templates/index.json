@@ -413,6 +413,7 @@
         "image_MzErLh": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/En_baisse_d_enegie_Passez_a_l_action_Retrouvez_focus_vitalite_et_motivation_instantanement._13.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
