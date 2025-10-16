@@ -482,7 +482,7 @@
             "column_size": "3",
             "title": "★★★★★",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em><strong>Sophie, 36 ans.</strong></em></p><p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -495,7 +495,7 @@
             "column_size": "3",
             "title": "★★★★★",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em><strong>Élodie, 44 ans.</strong></em></p><p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
