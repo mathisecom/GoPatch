@@ -448,11 +448,11 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "Promotion text",
+        "text": "Tour de taille visiblement réduit en 3 semaines",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
-        "scrolling_speed": 10,
+        "scrolling_speed": 7,
         "background": "#fbf5f6",
         "background_gradient": "",
         "text_color": "",
