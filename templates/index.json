@@ -556,6 +556,68 @@
         "spacing": "none"
       }
     },
+    "multi_column_8giWRr": {
+      "type": "multi-column",
+      "blocks": {
+        "item_hAd7Ae": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5_9fa33c1f-6d34-4c18-91b2-cb5b49da2f0f.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_HDjGEM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4_204eb3f3-c8f1-4928-a03c-d962ae81d3bd.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_H6r3RE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/6_d836de29-376d-4ba7-b393-85b57d29f998.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_hAd7Ae",
+        "item_HDjGEM",
+        "item_H6r3RE"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Ingrédients Clés",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "rich_text_LaxFXg": {
       "type": "rich-text",
       "blocks": {
@@ -876,6 +938,7 @@
     "scrolling_text_mYfHGa",
     "multi_column_xFqJ9Y",
     "media_with_text_tNjtgM",
+    "multi_column_8giWRr",
     "rich_text_LaxFXg",
     "image_link_blocks_cXm6nt",
     "testimonials_nkB9h3",
