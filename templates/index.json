@@ -55,45 +55,41 @@
         "logo_JNXFki": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/VOG_1.webp",
+            "logo_width": 70,
             "link": ""
           }
         },
-        "logo_eVdAMf": {
+        "logo_qBUa7J": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/COS.webp",
+            "logo_width": 70,
             "link": ""
           }
         },
-        "logo_LKcz9y": {
+        "logo_Ny7htR": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/MAR.webp",
+            "logo_width": 70,
             "link": ""
           }
         },
-        "logo_FDWknJ": {
+        "logo_qHMfpE": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_LWNxhn": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/ALL.webp",
+            "logo_width": 70,
             "link": ""
           }
         }
       },
       "block_order": [
         "logo_JNXFki",
-        "logo_eVdAMf",
-        "logo_LKcz9y",
-        "logo_FDWknJ",
-        "logo_LWNxhn"
+        "logo_qBUa7J",
+        "logo_Ny7htR",
+        "logo_qHMfpE"
       ],
       "name": "Logo list",
       "settings": {
