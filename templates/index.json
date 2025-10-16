@@ -450,6 +450,7 @@
         "item_eRPUxY": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_9.webp",
             "column_size": "3",
             "title": "★★★★★",
             "heading_tag": "h4",
@@ -462,8 +463,9 @@
         "item_znRCNd": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/58.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "★★★★★",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
@@ -474,8 +476,9 @@
         "item_id3kaW": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Votre_texte_de_paragraphe_28_af4c9678-fb35-4188-81f9-04d487b258bf.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "★★★★★",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
