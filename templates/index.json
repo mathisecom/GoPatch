@@ -96,7 +96,7 @@
         "full_width": true,
         "stack_mobile": false,
         "title": "",
-        "content": "<p>DÉJA VU SUR</p>",
+        "content": "<p><strong>DÉJA VU SUR</strong></p>",
         "text_alignment": "center",
         "items_per_row": 5,
         "background": "#ffffff",
