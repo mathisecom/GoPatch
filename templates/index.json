@@ -294,6 +294,12 @@
             "show_taxes_notice": false
           }
         },
+        "text_3zYCPM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Conçu pour favoriser une gestion saine du poids et le contrôle de l'appétit. 30 patchs par boîte.</p>"
+          }
+        },
         "liquid_QaJRDr": {
           "type": "liquid",
           "settings": {
@@ -381,6 +387,7 @@
         "title_UVYPEk",
         "liquid_VEVfRm",
         "price_eP7GtR",
+        "text_3zYCPM",
         "liquid_QaJRDr",
         "variant_picker_aeCPNM",
         "quantity_selector_ayNPkG",
