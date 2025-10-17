@@ -376,7 +376,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Ingrédients",
-            "content": "<ul><li><strong>Stéarate de magnésium</strong></li><li><strong>Bentonite</strong></li><li><strong>Extrait de racine de gingembre (Zingiber Officinale)</strong></li><li><strong>Extrait d’armoise commune (Artemisia Vulgaris)</strong></li><li><strong>Extrait d’angélique japonaise (Angelica Acutiloba)</strong></li><li><strong>Huile de fleur de rose rugosa (Rosa Rugosa Flower Oil)</strong></li></ul>",
+            "content": "<ul><li>Stéarate de magnésium</li><li>Bentonite</li><li>Extrait de racine de gingembre (Zingiber Officinale)</li><li>Extrait d’armoise commune (Artemisia Vulgaris)</li><li>Extrait d’angélique japonaise (Angelica Acutiloba)</li><li>Huile de fleur de rose rugosa (Rosa Rugosa Flower Oil)</li></ul>",
             "page": ""
           }
         },
