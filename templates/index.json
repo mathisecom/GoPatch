@@ -385,8 +385,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Conseils D'utilisation",
-            "content": "<p>Appliquez le patch sur une peau propre et sèche (poignet, bras ou bas du dos).</p><p>Laissez-le agir pendant <strong>8 à 12 heures</strong>, puis retirez-le.</p><p>À utiliser <strong>quotidiennement</strong> ou selon vos besoins, dans le cadre de votre routine bien-être.</p>",
+            "title": "Conseils d'utilisation",
+            "content": "<p>Appliquez le patch sur une peau propre et sèche (poignet, bras ou bas du dos).</p><p>Laissez-le agir pendant <strong>6 à</strong> <strong>8 heures</strong>, puis retirez-le.</p><p>À utiliser <strong>quotidiennement</strong> ou selon vos besoins, dans le cadre de votre routine bien-être.</p>",
             "page": ""
           }
         }
