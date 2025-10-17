@@ -685,6 +685,7 @@
         "item_HDjGEM",
         "item_H6r3RE"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
