@@ -17,7 +17,7 @@
         "message_UiUYLR": {
           "type": "message",
           "settings": {
-            "text": "Offre D'Automne : -50% de réduction",
+            "text": "Offre D'Automne : -40% de réduction",
             "url": ""
           }
         },
@@ -58,7 +58,7 @@
         "scrolling_speed": 10,
         "background": "#f0dbdd",
         "background_gradient": "",
-        "text_color": "#000000"
+        "text_color": "#371a21"
       }
     },
     "header": {
