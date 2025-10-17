@@ -448,6 +448,7 @@
         "logo_VJkGeg": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Titre_70.jpg",
             "logo_width": 120,
             "link": ""
           }
