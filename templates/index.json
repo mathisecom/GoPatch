@@ -306,8 +306,15 @@
             "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_kkBVYT\" data-block-type=\"liquid\">\n  <div class=\"product-info__liquid\">\n    <!-- Import Material Icons -->\n    <link href=\"https://fonts.googleapis.com/icon?family=Material+Icons\" rel=\"stylesheet\">\n\n    <div class=\"product__text-container\" style=\"padding:0px;\">\n      \n      <p class=\"product__text\" style=\"margin:4px 0; display:flex; align-items:center; gap:6px;\">\n        <span class=\"material-icons\" style=\"color:#C17982; font-size:18px;\">check_circle</span>\n        <span style=\"font-size:13px; line-height:18px; color:#121212;\">Brûle les graisses sans efforts ni frustration</span>\n      </p>\n\n      <p class=\"product__text\" style=\"margin:4px 0; display:flex; align-items:center; gap:6px;\">\n        <span class=\"material-icons\" style=\"color:#C17982; font-size:18px;\">check_circle</span>\n        <span style=\"font-size:13px; line-height:18px; color:#121212;\">Réduit naturellement l’appétit et les fringales</span>\n      </p>\n\n      <p class=\"product__text\" style=\"margin:4px 0; display:flex; align-items:center; gap:6px;\">\n        <span class=\"material-icons\" style=\"color:#C17982; font-size:18px;\">check_circle</span>\n        <span style=\"font-size:13px; line-height:18px; color:#121212;\">Tour de taille visiblement réduit en 3 semaines</span>\n      </p>\n\n      <p class=\"product__text\" style=\"margin:4px 0; display:flex; align-items:center; gap:6px;\">\n        <span class=\"material-icons\" style=\"color:#C17982; font-size:18px;\">check_circle</span>\n        <span style=\"font-size:13px; line-height:18px; color:#121212;\">Booster de confiance en soi</span>\n      </p>\n\n    </div>\n  </div>\n</div>"
           }
         },
+        "kaching_bundles_app_block_KjYgad": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "variant_picker_aeCPNM": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "hide_sold_out_variants": false,
             "stack_blocks": true,
@@ -389,6 +396,7 @@
         "price_eP7GtR",
         "text_3zYCPM",
         "liquid_QaJRDr",
+        "kaching_bundles_app_block_KjYgad",
         "variant_picker_aeCPNM",
         "quantity_selector_ayNPkG",
         "liquid_QYab3M",
