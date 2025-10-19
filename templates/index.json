@@ -546,6 +546,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_9.webp",
+            "video": "shopify://files/videos/07919df1c58d475084e941f4565e9200.mp4",
             "column_size": "3",
             "title": "★★★★★",
             "heading_tag": "h4",
@@ -558,7 +559,7 @@
         "item_znRCNd": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/58.webp",
+            "image": "shopify://shop_images/IMG_2823.webp",
             "column_size": "3",
             "title": "★★★★★",
             "heading_tag": "h4",
@@ -571,7 +572,7 @@
         "item_id3kaW": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Votre_texte_de_paragraphe_28_af4c9678-fb35-4188-81f9-04d487b258bf.webp",
+            "video": "shopify://files/videos/dc6cef0f79254b878d271008b49fcab1.mp4",
             "column_size": "3",
             "title": "★★★★★",
             "heading_tag": "h4",
