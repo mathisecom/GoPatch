@@ -34,11 +34,12 @@
     },
     "cart-drawer": {
       "type": "cart-drawer",
+      "custom_css": [],
       "settings": {
         "show_cart_note": false,
         "show_shipping_text": false,
         "show_view_cart_button": false,
-        "show_checkout_button": true,
+        "show_checkout_button": false,
         "recommendations_title": "Trending this month",
         "products": [],
         "product_card_background": "#f2f2f2",
