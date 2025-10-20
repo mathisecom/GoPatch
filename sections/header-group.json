@@ -55,7 +55,7 @@
         "cycle_speed": 4,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
-        "scrolling_speed": 10,
+        "scrolling_speed": 13,
         "background": "#f0dbdd",
         "background_gradient": "",
         "text_color": "#371a21"
