@@ -506,7 +506,7 @@
             "link_url": "#shopify-section-template--26792659124567__featured_product_yJDeQi",
             "background": "#ffffff",
             "background_gradient": "",
-            "text_color": "#371a21",
+            "text_color": "#000000",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -621,7 +621,7 @@
             "link_url": "#shopify-section-template--26792659124567__featured_product_yJDeQi",
             "background": "#ffffff",
             "background_gradient": "",
-            "text_color": "#371a21",
+            "text_color": "#000000",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -932,7 +932,7 @@
           "settings": {
             "text": "Essayez-le pendant 30 jours",
             "heading_tag": "h2",
-            "text_color": "",
+            "text_color": "#000000",
             "gradient": ""
           }
         },
