@@ -980,10 +980,10 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "Justine F.",
+            "title": "Je le porte partout !",
+            "content": "<p>Très discret, je le porte la journée au travail. Je sens un vrai effet sur les envies impulsives, c'est vraiment super ce patch.</p>"
           }
         },
         "testimonial_YkB9KD": {
@@ -991,10 +991,10 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "Manon G.",
+            "title": "-2 kilos avec GoPatch",
+            "content": "<p>Je voulais perdre 2–3 kilos sans me prendre la tête. Le patch m’a aidée à réduire les petites faims et à rester régulière. C’est devenu une habitude pratique.</p>"
           }
         },
         "testimonial_AetYkg": {
@@ -1003,9 +1003,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Clara B.",
+            "title": "Moins d'appétit !",
+            "content": "<p>Après la grossesse j’avais du mal à retrouver un rythme. Ce patch m'a vraiment aidée à stabiliser mon appétit.</p>"
           }
         }
       },
