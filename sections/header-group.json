@@ -17,12 +17,13 @@
         "message_UiUYLR": {
           "type": "message",
           "settings": {
-            "text": "Offre D'Automne : -40% de réduction",
+            "text": "-40% pour remercier nos 10.000 clientes",
             "url": ""
           }
         },
         "message": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "+11,450 Femmes Conquises !",
             "url": ""
