@@ -897,6 +897,116 @@
             "title": "Je recommande !",
             "content": "<p>J'avais peur que ça ne fonctionne pas, mais les résultats sont là. Je recommande pour toutes celles qui veulent un petit coup de pouce.</p>"
           }
+        },
+        "testimonial_UE639G": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Camille R.",
+            "title": "Rythme alimentaire stable !",
+            "content": "<p>J’avais toujours envie de grignoter en fin d’après-midi. Depuis que j’utilise GoPatch, j’ai beaucoup moins ces impulsions. </p>"
+          }
+        },
+        "testimonial_cEh8HT": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Laura T.",
+            "title": "Top top ce patch !",
+            "content": "<p>Je ne voulais pas faire de régime strict. Le patch m’a aidée à calmer mes envies et à réduire les petites fringales. Simple et discret je recommande GoPatch et merci à marion du SAV.</p>"
+          }
+        },
+        "testimonial_qHfCmK": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Sarah M.",
+            "title": "Je mange sereinement",
+            "content": "<p>Au bout d’une semaine j’ai réellement senti une différence sur l’appétit. Je mange plus sereinement et je me sens moins attirée par le sucré.</p>"
+          }
+        },
+        "testimonial_gnUfkd": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Élodie P.",
+            "title": "Je recommande GoPatch",
+            "content": "<p>Ce patch est très facile à intégrer dans ma routine. Mes envies incontrôlables ont diminué et je me sens moins dans la frustration. Je recommande GoPatch vraiment génial !</p>"
+          }
+        },
+        "testimonial_wgt7C7": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_aw38bz": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_4DPBty": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_b8Yh3B": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_YkB9KD": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_AetYkg": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
         }
       },
       "block_order": [
@@ -904,7 +1014,17 @@
         "testimonial_VUxp7e",
         "testimonial_btcCkr",
         "testimonial_KC3mea",
-        "testimonial_TaRPdw"
+        "testimonial_TaRPdw",
+        "testimonial_UE639G",
+        "testimonial_cEh8HT",
+        "testimonial_qHfCmK",
+        "testimonial_gnUfkd",
+        "testimonial_wgt7C7",
+        "testimonial_aw38bz",
+        "testimonial_4DPBty",
+        "testimonial_b8Yh3B",
+        "testimonial_YkB9KD",
+        "testimonial_AetYkg"
       ],
       "name": "Testimonials",
       "settings": {
