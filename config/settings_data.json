@@ -62,6 +62,11 @@
         "type": "shopify://apps/kaching-cart/blocks/embed/7705621e-3c0f-4e97-9d29-5c8528b19fb7",
         "disabled": false,
         "settings": {}
+      },
+      "8942208844547249051": {
+        "type": "shopify://apps/ultimate-gdpr-eu-cookie-banner/blocks/widget/9ad66af2-f521-41c0-96ef-0e66c4e1d187",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
