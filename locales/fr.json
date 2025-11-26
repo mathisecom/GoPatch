@@ -349,7 +349,7 @@
     },
     "free_shipping_bar": {
       "limit_unreached_html": "Dépensez {{ remaining_amount }} de plus pour bénéficier des frais de livraison offerts.",
-      "limit_reached_html": "Forte demande, votre panier va bientôt expirer !"
+      "limit_reached_html": "<b>Forte demande</b>, votre panier va bientôt expirer !"
     },
     "shipping_estimator": {
       "estimate_shipping": "Estimer les frais de livraison",
