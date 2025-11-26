@@ -447,7 +447,7 @@
     },
     "checkout": {
       "general": {
-        "pay_now_button_label": "Payer maintenant - Stock limité "
+        "pay_now_button_label": "Procéder au paiement – Offre limitée"
       }
     }
   }
