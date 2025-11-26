@@ -37,7 +37,7 @@
       "custom_css": [],
       "settings": {
         "show_cart_note": false,
-        "show_shipping_text": false,
+        "show_shipping_text": true,
         "show_view_cart_button": false,
         "show_checkout_button": true,
         "recommendations_title": "Le complément idéal à votre routine :",
